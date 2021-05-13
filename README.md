@@ -1,2 +1,2 @@
-# 2021_Embedded-System-Arduino-design
+# 2021_Arduino-Project
 **기초설계**
